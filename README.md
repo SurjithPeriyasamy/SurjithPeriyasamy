@@ -47,6 +47,7 @@
 
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat&logo=primeng&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
 **Integrations & tools**
 
@@ -67,13 +68,21 @@
 
 *These are client projects, so their code is private.*
 
-## 🧪 Personal projects
+## 🧪 Open-source projects
 
-| Project | What it is | Tech |
-|---|---|---|
-| [**SurjithKart**](https://surjithkart.netlify.app/) | E-commerce app with Google Sign-In, Firebase account management, an infinite-scroll product feed, multi-category filters and sorting | React · Redux Toolkit · Firebase Auth |
-| [**NetflixGPT**](https://drive.google.com/file/d/1Rzn3toXCoEpVBfMA7YoayTOZJPVYUZVv/view) | Movie browsing app with AI-powered recommendations, behind authenticated routes | React · Redux Toolkit · Firebase Auth · TMDB API |
-| [**YouTube Gear**](https://surjith-youtube.netlify.app/) | YouTube clone with live chat through API polling and an LRU cache, plus debounced, cached search suggestions | React · YouTube Data API |
+| Project | Description | Tech | Live |
+|---|---|---|---|
+| [**SurjithKart**](https://github.com/SurjithPeriyasamy/E-commerce) | E-commerce app with Google Sign-In, Firebase account management, an infinite-scroll product feed, multi-category filters and sorting | React · Redux Toolkit · Firebase Auth | [Demo](https://surjithkart.netlify.app/) |
+| [**NetflixGPT**](https://github.com/SurjithPeriyasamy/netflix-gpt) | Movie browsing app with AI-powered recommendations, behind authenticated routes | React · Redux Toolkit · Firebase Auth · TMDB API | [Demo](https://drive.google.com/file/d/1Rzn3toXCoEpVBfMA7YoayTOZJPVYUZVv/view) |
+| [**YouTube Gear**](https://github.com/SurjithPeriyasamy/youtube-gear) | YouTube clone with live chat through API polling and an LRU cache, plus debounced, cached search suggestions | React · YouTube Data API | [Demo](https://surjith-youtube.netlify.app/) |
+| **Portfolio** | My personal developer portfolio | JavaScript | [Visit](https://surjith-dev-portfolio.netlify.app/) |
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SurjithPeriyasamy&show_icons=true&count_private=true&hide_border=true&theme=default" alt="Surjith's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurjithPeriyasamy&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Most used languages"/>
+</p>
 
 ## 🏅 Certifications
 
