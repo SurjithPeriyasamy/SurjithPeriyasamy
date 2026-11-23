@@ -47,7 +47,6 @@
 
 ![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=flat&logo=primeng&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
 **Integrations & tools**
 
