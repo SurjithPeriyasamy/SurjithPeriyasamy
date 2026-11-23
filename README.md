@@ -80,8 +80,8 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SurjithPeriyasamy&show_icons=true&count_private=true&hide_border=true&theme=default" alt="Surjith's GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurjithPeriyasamy&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Most used languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SurjithPeriyasamy&show_icons=true&count_private=true&hide_border=true&theme=default&cache_seconds=14400" alt="Surjith's GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurjithPeriyasamy&layout=compact&langs_count=8&hide_border=true&theme=default&cache_seconds=14400" alt="Most used languages"/>
 </p>
 
 ## 🏅 Certifications
