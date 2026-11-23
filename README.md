@@ -77,10 +77,9 @@
 | [**YouTube Gear**](https://github.com/SurjithPeriyasamy/youtube-gear) | YouTube clone with live chat through API polling and an LRU cache, plus debounced, cached search suggestions | React · YouTube Data API | [Demo](https://surjith-youtube.netlify.app/) |
 | **Portfolio** | My personal developer portfolio | JavaScript | [Visit](https://surjith-dev-portfolio.netlify.app/) |
 
-## 📊 GitHub stats
+## 📊 Most used languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SurjithPeriyasamy&show_icons=true&count_private=true&hide_border=true&theme=default&cache_seconds=14400" alt="Surjith's GitHub stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurjithPeriyasamy&layout=compact&langs_count=8&hide_border=true&theme=default&cache_seconds=14400" alt="Most used languages"/>
 </p>
 
