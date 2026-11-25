@@ -86,10 +86,3 @@
 
 - [Frontend Developer (React)](https://www.hackerrank.com/certificates/9f42c0c57901) · [React (Basic)](https://www.hackerrank.com/certificates/e0491ae247cf): HackerRank
 - [Namaste React](https://namastedev.com/mahindhiran005/certificates/namaste-react) · [Namaste JavaScript](https://namastedev.com/mahindhiran005/certificates/namaste-javascript): NamasteDev
-
----
-
-<p align="center">
-  📫 Open to <b>Frontend / Angular / React Developer</b> roles in <b>Chennai, Coimbatore or remote</b>.<br/>
-  Reach me at <a href="mailto:mahindhiran005@gmail.com">mahindhiran005@gmail.com</a>
-</p>
